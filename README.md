@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd-year computer science student at Tribhuvan University.
+Final year computer science student at Tribhuvan University.
 
 
 ## 🌐 Socials:
