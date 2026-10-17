@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/Sasank-5716?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Explore my code" /></a>
   <a href="mailto:sasanklama5716@gmail.com"><img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-0b1220?style=for-the-badge&logo=rocket&logoColor=fbbf24" alt="Contact me" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sasank-5716&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge&abbreviated=true" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=github.com.Sasank-5716&left_color=0b1220&right_color=06b6d4&left_text=PROFILE%20VIEWS" alt="Profile views" />
 </p>
 
 </div>
