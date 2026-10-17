@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/Sasank-5716?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Explore my code" /></a>
   <a href="mailto:sasanklama5716@gmail.com"><img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-0b1220?style=for-the-badge&logo=rocket&logoColor=fbbf24" alt="Contact me" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Sasank-5716&label=VISITORS&color=06b6d4&style=for-the-badge" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=sasank-5716&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge&abbreviated=true" alt="Profile views" />
 </p>
 
 </div>
@@ -110,8 +110,28 @@ principle: "Make it useful. Make it beautiful. Make it real."
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sasank-5716&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" alt="GitHub achievement trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasank-5716&theme=tokyonight" width="95%" alt="Animated contribution profile summary" />
 </div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/rocket.png" alt="Shipping" />
+      <br><b>SHIP</b>
+      <br><sub>Ideas into useful products</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/3d-glasses.png" alt="3D experiments" />
+      <br><b>EXPLORE</b>
+      <br><sub>Immersive and interactive experiences</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/refresh.png" alt="Iteration" />
+      <br><b>ITERATE</b>
+      <br><sub>Learn, refine, and improve</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🎮 Choose your next move
 
